@@ -1,0 +1,17 @@
+Index: app/src/main/java/com/glenda/aulafragments/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/glenda/aulafragments/MainActivity.kt b/app/src/main/java/com/glenda/aulafragments/MainActivity.kt
+--- a/app/src/main/java/com/glenda/aulafragments/MainActivity.kt	
++++ b/app/src/main/java/com/glenda/aulafragments/MainActivity.kt	(date 1727185105904)
+@@ -7,7 +7,7 @@
+ import androidx.core.os.bundleOf
+ import androidx.core.view.ViewCompat
+ import androidx.core.view.WindowInsetsCompat
+-
++// aula dia 24/09/2024
+ class MainActivity : AppCompatActivity() {
+     private lateinit var btnCadastro : Button
+     private lateinit var btnLogin : Button
